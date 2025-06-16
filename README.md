@@ -1,7 +1,6 @@
 # itsferth.github.io
 <html>
 <head>
-<title>Coches Electricos: La mobivilidad del futuro</title>
 <style>
     h1{
         color: rgb(12, 247, 255);
