@@ -1,8 +1,6 @@
 # itsferth.github.io
 <html>
-<html lang="es">
 <head>
-<meta charset="UTF-8">
 <title>Coches Electricos: La mobivilidad del futuro</title>
 <style>
     h1{
